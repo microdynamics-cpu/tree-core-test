@@ -1,0 +1,6 @@
+*.elf
+*.bin
+*.txt
+*.o
+*.ram
+build
