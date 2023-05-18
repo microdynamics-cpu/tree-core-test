@@ -12,7 +12,7 @@
       <img alt="stars" src="https://img.shields.io/github/stars/microdynamics-cpu/tree-core-test?color=blue&style=flat-square" />
     </a>
     <a href="https://github.com/microdynamics-cpu/tree-core-test">
-      <img src="https://img.shields.io/badge/total%20lines-0k-red?style=flat-square">
+      <img src="https://img.shields.io/tokei/lines/github/microdynamics-cpu/tree-core-test?color=red&style=flat-square">
     </a>
     <a href="https://github.com/microdynamics-cpu/tree-core-test">
       <img src="https://img.shields.io/badge/toolchain-asm%20c-red?style=flat-square">
